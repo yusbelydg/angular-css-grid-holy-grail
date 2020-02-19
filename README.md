@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
-Ejemplo en angular de como crear un layout con el patron Holy Grail y con propiedades de GRID de css.
+Ejemplo en angular de cómo crear un layout con el patrón Holy Grail y con propiedades de GRID de css (https://www.positronx.io/css-grid-layout-holy-grail-angular-ui-tutorial/)
 
 ## Development server
 
